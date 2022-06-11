@@ -23,6 +23,7 @@
 
 .row{
     display: flex;
+    background-color: black;
 }
 
 button{
@@ -33,6 +34,7 @@ button{
     color: white;
     width: 25%;
     outline: none;
+    border-radius: 50px;
 }
 
 .all-clear{
